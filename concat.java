@@ -1,8 +1,6 @@
 public class concat {
-
-    public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+    String concatenar(String a, String b) {
+        a += b;
+        return a;
     }
-
 }
