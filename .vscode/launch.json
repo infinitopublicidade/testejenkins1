@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - concat",
+            "request": "launch",
+            "mainClass": "concat",
+            "projectName": "teste-jenkins_abbaa702"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "teste-jenkins_abbaa702"
+        }
+    ]
+}
